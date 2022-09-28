@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="intellij-coverage-agent-1.0.613">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/intellij-coverage-agent-1.0.613.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
